@@ -1,0 +1,12 @@
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\bin\Debug\net5.0\Dominio.deps.json
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\bin\Debug\net5.0\Dominio.dll
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\bin\Debug\net5.0\Dominio.pdb
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\obj\Debug\net5.0\Dominio.dll
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+c:\Users\USER\Documents\e-migrant-grupo28_trex\Dominio\obj\Debug\net5.0\Dominio.pdb
